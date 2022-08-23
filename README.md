@@ -60,4 +60,4 @@ CCT- CryptoCurrencyTracker:
 Android: https://tinyurl.com/ccttracker
 
 
-📫 - How to reach me: goharali16@gmail.com or goharali.me
+📫 - How to reach me: goharali16@gmail.com or [goharali.me](http://goharali.me/)
