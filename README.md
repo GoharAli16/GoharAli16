@@ -2,8 +2,10 @@ Hi there 👋
 I'm a passionate Mobile App Developer from Lahore, Pakistan.
 
 💻 - Senior Developer/Teach Lead/CTO at Tregix - September 2017 to Present
+
 💻 - Software Engineer at Confiz solutions — August 2015 to August 2017
-🎓 - BS(CS) from PUCIT, Lahore — 2011-2015
+
+🎓 - BS(SE) from PUCIT, Lahore — 2011-2015
 
 😎 - Top Rated on Upwork — from 2020 to present
 
@@ -50,7 +52,7 @@ Android: https://tinyurl.com/ltdmsgand
 LTD Events: 
 Android: https://tinyurl.com/ltdevetnsand
 
-Duliver - Developed from scratch in Flutter. Available on Google Playstore
+Duliver - Developed from scratch in Flutter
 Android: https://tinyurl.com/duliver-and
 
 Listingo - Service providers directory 
