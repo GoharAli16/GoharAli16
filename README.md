@@ -55,6 +55,9 @@ Android: https://tinyurl.com/ltdevetnsand
 Duliver - Developed from scratch in Flutter
 Android: https://tinyurl.com/duliver-and
 
+QR Code Scanner & Reader 
+Android: https://tinyurl.com/qrand
+
 Listingo - Service providers directory 
 Android: https://tinyurl.com/listingo-and
 
