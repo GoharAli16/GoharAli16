@@ -1,7 +1,7 @@
 Hi there 👋
 I'm a passionate Mobile App Developer from Lahore, Pakistan.
 
-💻 - Senior Developer/Teach Lead/CTO at Tregix - September 2017 to Present
+💻 - Senior Developer at Tregix - September 2017 to Present
 
 💻 - Software Engineer at Confiz solutions — August 2015 to August 2017
 
