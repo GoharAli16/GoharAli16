@@ -1,116 +1,134 @@
-Hi there 👋
-I'm a passionate Mobile App Developer from Lahore, Pakistan.
+# Hi there! 👋
 
-💻 - Mobile App Development Lead at Tregix - September 2017 to Present
+I'm **Gohar**, a passionate **Mobile App Developer** from Lahore, Pakistan. With over 8 years of experience, I've honed my skills in crafting high-quality mobile applications that deliver exceptional user experiences.
 
-💻 - Product Lead
-    Fiedk · Part-time
-    Aug 2020 - Present · 4 yrs 1 mos
-    Egypt · Remote
-    
-💻- Senior Mobile Application Developer - Senior Flutter Developer
-   @PetroPlay Petroplus Sul Comércio Exterior · Freelance
-    Jun 2022 - Oct 2023 · 1 yr 5 mos
-    Brazil · Remote
-    
-💻 - Software Engineer
-    @Confiz
-    Aug 2015 - Aug 2017 · 2 yrs 1 mo
-    lahore, pakistan
+## 💼 Professional Experience
 
-💻 - Research Assistant
-    Artificial Intelligence and Multidisciplinary Research lab
-    Oct 2014 - Jul 2015 · 10 mos
-    Lahore, Pakistan
-    
-🎓 - BS(SE) from PUCIT, Lahore — 2011-2015
+### **Mobile App Development Lead** at **Tregix**  
+**September 2017 - Present**  
+*Leading innovative mobile solutions and driving app development from concept to deployment.*
 
-😎 - Top Rated Plus on Upwork — from 2020 to present
+### **Product Lead** at **Fiedk** · Part-time  
+**August 2020 - Present · 4 yrs 1 mo**  
+*Egypt · Remote*  
+*Overseeing product development and strategy for a cutting-edge e-commerce platform.*
 
-Prominent FrameWorks/3rd Party Libraries/Tools = I have worked with
-- Flutter/React Native
-- Native Android(Java/kotlin)
-- Native iOS(Swift)
-- Node.Js/Laravel
-- Fastlane/Jenkins
-- Facebook SDK's
-- Firebase
-- Google Maps
-- AWS 
-- OneSignal
-- XD/FIgma/Framer
+### **Senior Mobile Application Developer** at **PetroPlay Petroplus Sul Comércio Exterior** · Freelance  
+**June 2022 - October 2023 · 1 yr 5 mos**  
+*Brazil · Remote*  
+*Developed and maintained complex mobile applications for automotive centers and dealerships.*
 
-👷‍ - I have worked on alot of Projects in last 8 years, Some prominent onces are mentioned below
+### **Software Engineer** at **Confiz**  
+**August 2015 - August 2017 · 2 yrs 1 mo**  
+*Lahore, Pakistan*  
+*Worked on large-scale software solutions for various industries.*
 
-SoloMas :The SoloMas App is a social travel app which connects its users with Carnival enthusiasts and masqueraders near them.
-Tools : Flutter, Google Maps, Firebase, AWSCore, AWSS3, Node Js, Mongo DB
-Android: https://tinyurl.com/solomas-and
-iOS: https://tinyurl.com/solomas-ios
+### **Research Assistant** at **Artificial Intelligence and Multidisciplinary Research Lab**  
+**October 2014 - July 2015 · 10 mos**  
+*Lahore, Pakistan*  
+*Contributed to research projects focused on AI and emerging technologies.*
 
-Fiedk - في ايدك : An e-commerce app for multi restaurants and shops
-Tools : Flutter, Google Maps, Firebase, Laravel
-Android: https://tinyurl.com/fiedkAndroid
-iOS: https://tinyurl.com/fiedkios
+## 🎓 Education
 
-PetroPlay : App for dealerships, automotive centers and gas stations. Automated checklist system to generate reports about vehicle tuning & services.
-Tools : Flutter, PDF creation, Node Js, Mongo DB, Firebase, AWSCore, AWSS3
-Android: https://play.google.com/store/apps/details?id=com.petroplay.petroplus&hl=en
+**BS(SE)** from **PUCIT, Lahore**  
+**2011-2015**
 
-Digital Pharmacy: A complete POS system for pharmacies supporting both online & offline mode. 
-Platforms: Android/iOS/Desktop	
-Tools: Flutter, Firebase, Laravel
-Android:	https://tinyurl.com/pharmadp
+## 🌟 Achievements
 
-Aquatic Enterprise: An e-commerce app for Marine Fish Culture 
-Platforms: Android
-Tools: Flutter, Firebase, Woo-commerce
-Android : https://tinyurl.com/aquaticent
+- **Top Rated Plus** on Upwork — **2020 to present**  
+*Recognized for delivering top-notch freelance work and maintaining excellent client relationships.*
 
-CabMap Consumer : Connect people with Taxis 
-Android : https://tinyurl.com/andcab
-iOS: https://tinyurl.com/usrcab
+## 🔧 Technical Expertise
 
-CabMap Driver : An app for taxi drivers 
-Android : https://tinyurl.com/drvand
-iOS: https://tinyurl.com/cabdrv
+**Frameworks/Tools:**
 
-Gloria Jeans Coffees Pakistan - Developed from scratch in Flutter. Available on Google Playstore and Apple AppStore
-Android: https://tinyurl.com/gjcpandroid
-IOS: https://tinyurl.com/gjcpios
+- **Flutter / React Native**
+- **Native Android (Java/Kotlin)**
+- **Native iOS (Swift)**
+- **Node.js / Laravel**
+- **Fastlane / Jenkins**
+- **Facebook SDKs**
+- **Firebase**
+- **Google Maps**
+- **AWS**
+- **OneSignal**
+- **XD / Figma / Framer**
 
-Cruisinc - River Cruise Jobs
-Android: https://tinyurl.com/cruisinc
+## 📱 Highlighted Projects
 
-Trabajo24 Paraguay
-Android: https://tinyurl.com/Trabajo24
+### **SoloMas**  
+A social travel app connecting users with Carnival enthusiasts and masqueraders nearby.  
+**Tools:** Flutter, Google Maps, Firebase, AWSCore, AWSS3, Node.js, MongoDB  
+[Android](https://tinyurl.com/solomas-and) | [iOS](https://tinyurl.com/solomas-ios)
 
-Netexem VOP
-Android: https://tinyurl.com/netexemapp
+### **Fiedk - في ايدك**  
+An e-commerce app for multiple restaurants and shops.  
+**Tools:** Flutter, Google Maps, Firebase, Laravel  
+[Android](https://tinyurl.com/fiedkAndroid) | [iOS](https://tinyurl.com/fiedkios)
 
-Yalla Erbil
-Android: https://tinyurl.com/yallaerbil
-IOS: https://tinyurl.com/yallaerbilios
+### **PetroPlay**  
+App for dealerships, automotive centers, and gas stations. Automated checklist system to generate vehicle tuning & service reports.  
+**Tools:** Flutter, PDF creation, Node.js, MongoDB, Firebase, AWSCore, AWSS3  
+[Android](https://play.google.com/store/apps/details?id=com.petroplay.petroplus&hl=en)
 
-LTD Media: 
-Android: https://tinyurl.com/ltdmedand
+### **Digital Pharmacy**  
+A complete POS system for pharmacies, supporting both online & offline modes.  
+**Platforms:** Android/iOS/Desktop  
+**Tools:** Flutter, Firebase, Laravel  
+[Android](https://tinyurl.com/pharmadp)
 
-LTD Messaging: 
-Android: https://tinyurl.com/ltdmsgand
+### **Aquatic Enterprise**  
+An e-commerce app for Marine Fish Culture.  
+**Platform:** Android  
+**Tools:** Flutter, Firebase, WooCommerce  
+[Android](https://tinyurl.com/aquaticent)
 
-LTD Events: 
-Android: https://tinyurl.com/ltdevetnsand
+### **CabMap Consumer**  
+Connects people with taxis.  
+[Android](https://tinyurl.com/andcab) | [iOS](https://tinyurl.com/usrcab)
 
-Duliver - Developed from scratch in Flutter
-Android: https://tinyurl.com/duliver-and
+### **CabMap Driver**  
+An app for taxi drivers.  
+[Android](https://tinyurl.com/drvand) | [iOS](https://tinyurl.com/cabdrv)
 
-QR Code Scanner & Reader 
-Android: https://tinyurl.com/qrand
+### **Gloria Jeans Coffees Pakistan**  
+Developed from scratch in Flutter.  
+[Android](https://tinyurl.com/gjcpandroid) | [iOS](https://tinyurl.com/gjcpios)
 
-Listingo - Service providers directory 
-Android: https://tinyurl.com/listingo-and
+### **Cruisinc - River Cruise Jobs**  
+[Android](https://tinyurl.com/cruisinc)
 
-CCT- CryptoCurrencyTracker: 
-Android: https://tinyurl.com/ccttracker
+### **Trabajo24 Paraguay**  
+[Android](https://tinyurl.com/Trabajo24)
 
+### **Netexem VOP**  
+[Android](https://tinyurl.com/netexemapp)
 
-📫 - How to reach me: goharali16@gmail.com
+### **Yalla Erbil**  
+[Android](https://tinyurl.com/yallaerbil) | [iOS](https://tinyurl.com/yallaerbilios)
+
+### **LTD Media**  
+[Android](https://tinyurl.com/ltdmedand)
+
+### **LTD Messaging**  
+[Android](https://tinyurl.com/ltdmsgand)
+
+### **LTD Events**  
+[Android](https://tinyurl.com/ltdevetnsand)
+
+### **Duliver**  
+Developed from scratch in Flutter.  
+[Android](https://tinyurl.com/duliver-and)
+
+### **QR Code Scanner & Reader**  
+[Android](https://tinyurl.com/qrand)
+
+### **Listingo - Service Providers Directory**  
+[Android](https://tinyurl.com/listingo-and)
+
+### **CCT - CryptoCurrencyTracker**  
+[Android](https://tinyurl.com/ccttracker)
+
+## 📫 Get in Touch
+
+You can reach me at **goharali16@gmail.com** for any inquiries, collaborations, or project discussions.
