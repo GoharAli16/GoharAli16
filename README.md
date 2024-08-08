@@ -9,7 +9,7 @@ I'm **Gohar**, a passionate **Mobile App Developer** from Lahore, Pakistan. With
 *Leading innovative mobile solutions and driving app development from concept to deployment.*
 
 ### **Product Lead** at **Fiedk** · Part-time  
-**August 2020 - Present · 4 yrs 1 mo**  
+**August 2020 - Present · 4 yrs+**  
 *Egypt · Remote*  
 *Overseeing product development and strategy for a cutting-edge e-commerce platform.*
 
