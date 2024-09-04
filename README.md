@@ -2,7 +2,7 @@
 
 I'm **Gohar**, a passionate **Mobile App Developer** from Lahore, Pakistan. With over 8 years of experience, I've honed my skills in crafting high-quality mobile applications that deliver exceptional user experiences.
 
-Linked In: https://www.linkedin.com/in/iam-gohar-ali/
+LinkedIn: https://www.linkedin.com/in/iam-gohar-ali/
 
 ## 💼 Professional Experience
 
