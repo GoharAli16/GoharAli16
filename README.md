@@ -2,8 +2,6 @@
 
 I'm **Gohar**, a passionate **Mobile App Developer** from Lahore, Pakistan. With over 8 years of experience, I've honed my skills in crafting high-quality mobile applications that deliver exceptional user experiences.
 
-LinkedIn: https://www.linkedin.com/in/iam-gohar-ali/
-
 ## 💼 Professional Experience
 
 ### **Mobile App Development Lead** at **Tregix**  
@@ -131,6 +129,4 @@ Developed from scratch in Flutter.
 ### **CCT - CryptoCurrencyTracker**  
 [Android](https://tinyurl.com/ccttracker)
 
-## 📫 Get in Touch
 
-You can reach me at **goharali16@gmail.com** for any inquiries, collaborations, or project discussions.
